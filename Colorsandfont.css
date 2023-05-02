@@ -1,0 +1,71 @@
+@charset "utf-8";
+.paragraph {
+    color: #EBF9FF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    /* [disabled]border-left-color: #0D2C31; */
+    /* [disabled]border-left-style: solid; */
+    /* [disabled]border-left-width: 30px; */
+    font-style: normal;
+    text-shadow: 0 0;
+    font-size: 18px;
+    text-indent: 25px;
+    display: inherit;
+    /* [disabled]background-color: #126677; */
+}
+.headings {
+    font-size: 40px;
+    text-indent: 0px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FCFCFC;
+    text-decoration: none;
+    font-variant: small-caps;
+    text-transform: none;
+    font-style: normal;
+    letter-spacing: 10px;
+    border: medium solid #DF8556;
+}
+.menu_bar {
+    background-color: #C3ABA3;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    background-image: url(background2.png);
+    background-repeat: repeat-y;
+    text-align: right;
+    border-style: solid;
+    border-color: #F19455;
+}
+.headings2 {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: right;
+    letter-spacing: 2px;
+    background-position: 0% 0%;
+    background-image: url(background2.png);
+    /* [disabled]background-repeat: repeat; */
+}
+.forms {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    border-color: #D5B089;
+    background-color: #DC9760;
+    max-width: 300px;
+    border-style: solid;
+}
+.formfont  {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-align: left;
+}
+.indexparagraph {
+    background-color: #D89B66;
+    width: 800px;
+    color: #FFFFFF;
+}
+.captions {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    letter-spacing: 1px;
+}
